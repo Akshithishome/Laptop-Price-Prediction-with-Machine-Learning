@@ -1,1 +1,1 @@
-# Laptop-Price-Prediction-with-Machine-Learning
+# Churn_Prediction with Deployment
